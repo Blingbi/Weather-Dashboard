@@ -2,6 +2,7 @@
 
 ## Live URl:
 
+https://blingbi.github.io/Weather-Dashboard/
 
 ## User Story
 
